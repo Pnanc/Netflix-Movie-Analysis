@@ -53,8 +53,9 @@ Open the notebook:
 Navigate to Netflix_Movie_Analysis.ipynb (or similar name) in your browser and open it. You can then run the cells sequentially to execute the analysis.
 
 **Insights**
-**The analysis within this notebook aims to reveal insights such as:
-**
+**The analysis within this notebook aims to reveal insights such as:**
+
+
 1.The most dominant movie genres on Netflix.
 
 2.Periods of significant growth in Netflix's movie library.
