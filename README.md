@@ -43,7 +43,7 @@ Clone the repository:
 git clone https://github.com/Pnanc/netflix-movie-analysis.git
 cd netflix-movie-analysis
 
-Install the required libraries:
+**Install the required libraries:**
 
 pip install pandas matplotlib jupyter
 Launch Jupyter Notebook:
@@ -53,12 +53,12 @@ Open the notebook:
 Navigate to Netflix_Movie_Analysis.ipynb (or similar name) in your browser and open it. You can then run the cells sequentially to execute the analysis.
 
 **Insights**
-The analysis within this notebook aims to reveal insights such as:
+**The analysis within this notebook aims to reveal insights such as:
+**
+1.The most dominant movie genres on Netflix.
 
-The most dominant movie genres on Netflix.
+2.Periods of significant growth in Netflix's movie library.
 
-Periods of significant growth in Netflix's movie library.
+3.Potential shifts in content strategy over the years.
 
-Potential shifts in content strategy over the years.
-
-Prevalence of certain release years or content ratings.
+4.Prevalence of certain release years or content ratings.
